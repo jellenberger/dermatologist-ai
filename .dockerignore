@@ -1,0 +1,6 @@
+.DS_Store
+data/
+images/
+bottleneck_features/
+*.csv
+*.zip
